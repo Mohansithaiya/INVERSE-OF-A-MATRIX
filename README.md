@@ -1,4 +1,5 @@
-# INVERSE-OF-A-MATRIX
+# DATE:
+# EX.NO.03 INVERSE-OF-A-MATRIX
 ## Aim:
 To write a python program to find the inverse of a matrix
 
@@ -29,7 +30,8 @@ print(ans)
 ```
 ## Output:
 
-![alt text](<Screenshot 2024-04-11 140527.png>)
+![Screenshot 2024-09-03 214852](https://github.com/user-attachments/assets/97cdee7f-5cf6-481d-adb0-30774faae552)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
